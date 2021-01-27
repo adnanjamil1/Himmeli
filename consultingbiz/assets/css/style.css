@@ -8922,13 +8922,18 @@ button.close {
 */
 
 
-@media (max-width: 1200px) {
+@media (max-width: 1360px) {
+.loginBtn a {
+    padding: 6px 14px;
+}
 
   
 }
 
+
+
 @media (max-width: 992px) {
-.logo {
+  .logo {
     text-align: center;
 }
 
